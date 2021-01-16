@@ -30,7 +30,7 @@ twitter_username: raodentech
 github_username: raodentech
 
 # Build settings
-theme: jekyll-theme-hydejack
+# theme: jekyll-theme-hydejack
 remote_theme: qwtel/hydejack
 plugins:
   - jekyll-feed
