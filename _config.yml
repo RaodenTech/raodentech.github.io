@@ -30,7 +30,7 @@ twitter_username: raodentech
 github_username: raodentech
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hydejack
 plugins:
   - jekyll-feed
 
