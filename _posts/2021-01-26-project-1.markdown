@@ -1,0 +1,15 @@
+---
+title: Wrath of Raoden
+subtitle: Android Video Game
+layout: default
+modal-id: 1
+date: 2021-01-26
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: Wrath of Raoden
+project-date: January 2021
+client: Google Play
+category: Game Development
+description: Wrath of Raoden is a high-fantasy roguelike RPG with a rich story and intense battles.
+
+---
